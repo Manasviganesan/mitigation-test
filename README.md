@@ -6,12 +6,12 @@ A sample repo to test mitigation against passive reconnaissance
 This repository is used to demonstrate Recon-ng github_miner module.
 
 ## Contact
-Email: demo@example.com
+Email: abc@xyz.com
 
 ## Website
-Visit: https://example-demo.com
+Visit: https://abcxyz.com
 
 ## Additional Notes
 Our company's internal tools can be found at:
-- https://internal.example-demo.com
+- https://internal.abc-xyz.com
 
